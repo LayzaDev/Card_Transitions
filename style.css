@@ -13,7 +13,7 @@ body {
   .card {
     width: 500px;
     height: 400px;
-    background-image: url(../photo-transitions.jpg);
+    background-image: url(img/photo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
